@@ -11,7 +11,7 @@ This is an application that fetches details and news about top cryptocurrencies 
 
 * [Coin Ranking Api](https://rapidapi.com/Coinranking/api/coinranking1/) 
 
-* [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
+* [Bing News Search Api](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
 
 ## To test locally..
 
